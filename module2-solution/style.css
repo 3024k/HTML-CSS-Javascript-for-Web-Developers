@@ -2,7 +2,8 @@
 		box-sizing: border-box;
 	}
 	body {
-		background-color: #9E8851;
+	background-image: url("background.jpg");
+	background-color: #FEF5CA;
 	}
 	h1 {
 		margin: 100px;
